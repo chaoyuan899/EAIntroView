@@ -3,8 +3,7 @@ EAIntroView
 
 introduce page
 ####Use
-、、、
-#import "IntroductionViewController.h"
+"'#import "IntroductionViewController.h"
 #import "EAIntroPage.h"
 #import "EAIntroView.h"
 #import "WelcomeViewController.h"
@@ -108,7 +107,6 @@ introduce page
     return;
 
 }
-@end
-、、、 
+@end"' 
 ####效果图
-![pic.gif](/Users/z/Desktop)
+![pic.gif](/Users/z/Desktop/pic.gif)
